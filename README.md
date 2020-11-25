@@ -3,7 +3,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 The data with descriptions can be found here 
 <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-">on the UCI Machine Learning Repository site</a>.
+" target="_blank">on the UCI Machine Learning Repository site</a>.
 
 
 
