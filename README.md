@@ -12,5 +12,5 @@ The purpose of this project is to collect, clean, and prepare a tidy data set th
 
     
 # Files 
-CodeBook.Rmd: describes the variables, data, and any transformations to clean up the data \\
+CodeBook.Rmd: describes the variables, data, and any transformations to clean up the data 
 .R file: R script that includes code for data transformation and analysis 
