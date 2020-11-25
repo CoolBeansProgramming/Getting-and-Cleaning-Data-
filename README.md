@@ -1,4 +1,11 @@
-Getting and Cleaning Data Project 
+# Getting and Cleaning Data Project 
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
+
+The data with descriptions can be found here 
+<a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+">on the UCI Machine Learning Repository site</a>.
+
+
 
 # Analysis
 
