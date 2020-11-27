@@ -22,8 +22,8 @@ For each record we have:
 
 * A 561-feature vector with time and frequency domain variables:
 
-1 tBodyAcc-mean()-X
-2 tBodyAcc-mean()-Y
+1. tBodyAcc-mean()-X
+2. tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
 4 tBodyAcc-std()-X
 5 tBodyAcc-std()-Y
