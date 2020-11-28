@@ -14,7 +14,7 @@ For each record we have:
 * Triaxial Angular velocity from the gyroscope 
 
 
-* Its activity label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+* Its activity label (WALKING (1), WALKING_UPSTAIRS (2), WALKING_DOWNSTAIRS (3), SITTING (4), STANDING (5), LAYING (6))
 
 * An identifier of the subject who carried out the experiment
 
