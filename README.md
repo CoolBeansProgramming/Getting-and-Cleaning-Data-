@@ -8,7 +8,7 @@ The purpose of this project is to collect, clean, and prepare a tidy data set th
 2) Extract only the measurements on the mean and standard deviation for each measurement
 3) Uses descriptive activity names to name the activities in the data set
 4) Label the data set with descriptive variable names 
-5) Using the data in setep 4, create a tidy data set with the average of each variable for each activity and subject 
+5) Using the data in step 4, create a tidy data set with the average of each variable for each activity and subject 
 
     
 # Files 

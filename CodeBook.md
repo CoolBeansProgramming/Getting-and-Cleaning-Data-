@@ -583,3 +583,5 @@ For each record we have:
 561 angle(Z,gravityMean)
 
 # Transformations and Summaries 
+
+The activity_labels data frame was relabeled which was used to rename the activities variable in the data set and the variables in the feature vector where given descriptive names. The final tidy data set contained the average of each variable for each activity and each subject. 
