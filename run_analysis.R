@@ -12,7 +12,6 @@ unzip(zipfile="activity.zip")
 activities <-read.table(file.path("UCI HAR Dataset","activity_labels.txt"), header=FALSE) # activity labels (1-6)
 features <-read.table(file.path("UCI HAR Dataset","features.txt"), header=FALSE)
 
-
 # Y data sets are the labels
 X_test <-read.table(file.path("UCI HAR Dataset","test", "X_test.txt"), header=FALSE) # test set 
 Y_test <-read.table(file.path("UCI HAR Dataset","test", "Y_test.txt"), header=FALSE) # test labels
@@ -22,6 +21,7 @@ X_train <-read.table(file.path("UCI HAR Dataset","train", "X_train.txt"), header
 Y_train <-read.table(file.path("UCI HAR Dataset","train", "Y_train.txt"), header=FALSE) # training labels
 subject_train <-read.table(file.path("UCI HAR Dataset","train", "subject_train.txt"), header=FALSE)
 
+
 ##################
 ### merge data ###
 ##################
@@ -30,6 +30,7 @@ test_data <-cbind(subject_test, Y_test, X_test)
 train_data <-cbind(subject_train, Y_train, X_train)
 mergedData <-rbind(test_data,train_data)
 dim(mergedData)
+
 
 ##############################################
 ###   extract mesurements on the mean and   ###
