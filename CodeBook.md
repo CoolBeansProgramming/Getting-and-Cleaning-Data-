@@ -3,8 +3,6 @@
 Reserachers conducted the experinemnt using 30 volunteers from 19-48 years of age. Each volunteer performed six different activities (walking, walking upstairs, walking downstairs, sitting, standing, and laying) while wearing a smartphone that captured their acceleration and velocity. The data was divided into 70% for training and 30% for test data.  
 
 
-
-
 # The Variables 
 For each record we have: 
 
